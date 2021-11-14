@@ -17,4 +17,4 @@ savjeecoin.minePendingTransactions(myWalletAddress);
 
 
 
-console.log('\n Balance of xavier is ' , savjeecoin.getBalanceOfAddress(myWalletAddress));
+console.log('\n Balance of Mouazzama is ' , savjeecoin.getBalanceOfAddress(myWalletAddress));
